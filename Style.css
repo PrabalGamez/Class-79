@@ -1,0 +1,7 @@
+input{
+    margin: 10px;
+}
+#Submit_button, #Sort_button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
